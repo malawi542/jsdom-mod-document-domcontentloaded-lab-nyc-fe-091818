@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", e => {
    .addEventListener("click", e => console.log("Reggae, Reggae!"));
 })
 
-let listen = document.querySelector("div#hidden-div")
+let listen = document.querySelector('#hidden-div')
 
 listen.innerText('301')
 
