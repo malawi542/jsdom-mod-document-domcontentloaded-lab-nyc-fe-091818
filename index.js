@@ -7,4 +7,5 @@ document.addEventListener("DOMContentLoaded", e => {
 
 const listen = document.querySelector('#hidden-div')
 
-listen.innerText()
+listen.innerText('301')
+
