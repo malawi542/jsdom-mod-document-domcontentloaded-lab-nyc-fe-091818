@@ -5,3 +5,4 @@ document.addEventListener("DOMContentLoaded", e => {
    .addEventListener("click", e => console.log("Reggae, Reggae!"));
 })
 
+const listen = document.querySelector('#hidden')
